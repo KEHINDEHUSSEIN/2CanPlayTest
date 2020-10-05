@@ -8,7 +8,7 @@ var indexRouter = require('./routes/test');
 
 var app = express();
 
-var PORT = 5000;
+var PORT = 3000;
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
